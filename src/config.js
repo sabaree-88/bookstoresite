@@ -1,3 +1,3 @@
-const API_BASE_URL = "https://bookstoreapi-6zxm.onrender.com";
+const API_BASE_URL = "https://bookstoreapi-production-ecd2.up.railway.app";
 
 export default API_BASE_URL;
